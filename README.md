@@ -3,6 +3,9 @@ Editor for puzzles to Block Attack - Rise of the Blocks
 
 The game can be found at http://blockattack.sourceforge.net/
 
+##Screen shot
+![Block Attack - Rise of the Blocks puzzle level editor v2](/extra/screenshots/blockattack_editor.png?raw=true "Screen shot of a single level")
+
 ##Dependencies
   * JDK 7+ (Open or Oracle)
   * maven
