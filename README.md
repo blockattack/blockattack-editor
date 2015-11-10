@@ -1,4 +1,4 @@
-# blockattack-editor
+# blockattack-editor [![Build Status](https://travis-ci.org/blockattack/blockattack-editor.svg)](https://travis-ci.org/blockattack/blockattack-editor)
 Editor for puzzles to Block Attack - Rise of the Blocks
 
 The game can be found at http://blockattack.sourceforge.net/
