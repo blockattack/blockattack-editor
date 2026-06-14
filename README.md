@@ -1,16 +1,18 @@
 # blockattack-editor [![Build Status](https://travis-ci.org/blockattack/blockattack-editor.svg)](https://travis-ci.org/blockattack/blockattack-editor)
 Editor for puzzles to Block Attack - Rise of the Blocks
 
-The game can be found at http://blockattack.sourceforge.net/
+***Note: Block Attaack - Rise of the Blocks 2.10.0+ has a build in editor that you should use instead.***
 
-##Screen shot
+The game can be found at https://blockattack.net/
+
+## Screen shot
 ![Block Attack - Rise of the Blocks puzzle level editor v2](/extra/screenshots/blockattack_editor.png?raw=true "Screen shot of a single level")
 
-##Dependencies
+## Dependencies
   * JDK 7+ (Open or Oracle)
   * maven
 
-##Building
+## Building
 While standing in the base directory (with the pom.xml) type:
 ```
 mvn package
@@ -23,5 +25,5 @@ It can be run with:
 java -jar target/blockattack_editor-1.0-SNAPSHOT.jar
 ```
 
-##Licence 
+## Licence
 The Editor is licensed under GPL v2 or later like the game
