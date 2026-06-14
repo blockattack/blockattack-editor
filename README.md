@@ -1,7 +1,7 @@
 # blockattack-editor [![Build Status](https://travis-ci.org/blockattack/blockattack-editor.svg)](https://travis-ci.org/blockattack/blockattack-editor)
 Editor for puzzles to Block Attack - Rise of the Blocks
 
-***Note: Block Attaack - Rise of the Blocks 2.10.0+ has a build in editor that you should use instead.***
+<p style="border:1px solid #FF0000;background-color:#FFCCCC"><font color="#000000">Note: Block Attaack - Rise of the Blocks 2.10.0+ has a build in editor that you should use instead.</font></p>
 
 The game can be found at https://blockattack.net/
 
